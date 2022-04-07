@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitPurse", "gitPurse\gitPur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{6B79D3EB-B342-4D73-B31E-B56071DC20E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCart", "CreditCart\CreditCart.csproj", "{6B34D448-809B-4F2D-8340-15D5A26B1114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6B79D3EB-B342-4D73-B31E-B56071DC20E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B79D3EB-B342-4D73-B31E-B56071DC20E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B79D3EB-B342-4D73-B31E-B56071DC20E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B34D448-809B-4F2D-8340-15D5A26B1114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B34D448-809B-4F2D-8340-15D5A26B1114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B34D448-809B-4F2D-8340-15D5A26B1114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B34D448-809B-4F2D-8340-15D5A26B1114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
