@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitPurse", "gitPurse\gitPurse.csproj", "{52362369-AD17-4B55-B560-279E4034D3B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{6B79D3EB-B342-4D73-B31E-B56071DC20E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{52362369-AD17-4B55-B560-279E4034D3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52362369-AD17-4B55-B560-279E4034D3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52362369-AD17-4B55-B560-279E4034D3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B79D3EB-B342-4D73-B31E-B56071DC20E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B79D3EB-B342-4D73-B31E-B56071DC20E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B79D3EB-B342-4D73-B31E-B56071DC20E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B79D3EB-B342-4D73-B31E-B56071DC20E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
