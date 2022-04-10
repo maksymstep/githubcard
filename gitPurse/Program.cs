@@ -1,5 +1,6 @@
 ﻿using BusinessCard;
 using CreditCart;
+using Money;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +14,8 @@ namespace gitPurse
         static void Main(string[] args)
         {
             businessCard card = new businessCard();
-            creditCart CC = new creditCart();    
+            creditCart CC = new creditCart();
+            Cash money = new Cash();
         }
     }
 }
